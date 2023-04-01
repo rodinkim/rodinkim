@@ -41,5 +41,5 @@
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodinkim&show_icons=true&theme=radical)
   
